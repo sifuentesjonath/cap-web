@@ -1,0 +1,154 @@
+{
+  "year": [
+    "January 2022",
+    "February 2022",
+    "March 2022",
+    "April 2022",
+    "May 2022",
+    "June 2022",
+    "July 2022",
+    "August 2022",
+    "September 2022",
+    "October 2022",
+    "November 2022",
+    "December 2022"
+  ],
+  "incomeGroups":
+  [
+    "Rent",
+    "Parking",
+    "Other"
+  ],
+  "data": [
+    {"title": "Income"},
+    {
+      "title": "Rent",
+      "data": [
+        2403.24,
+        2403.24,
+        2403.24,
+        2403.24,
+        2403.24
+      ]
+    },
+    {
+      "title": "Parking",
+      "data": [
+        100,
+        100,
+        100,
+        100,
+        100
+      ]
+    },
+    {
+      "title": "Other",
+      "data": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "title": "Total Income",
+      "data": [
+        2503.24,
+        2503.24,
+        2503.24,
+        2503.24,
+        2503.24
+      ],
+      "class": "row-sub-total"
+    },
+    {},
+    {"title": "Expenses"},
+    {
+      "title": "Condo Fees",
+      "data":[
+        540,
+        540,
+        540,
+        540,
+        540
+      ]
+    },
+    {
+      "title": "Maintenance",
+      "data": [
+        95,
+        95,
+        95,
+        95,
+        95
+      ]
+    },
+    {
+      "title": "Property Tax",
+      "data": [
+        375,
+        375,
+        375,
+        375,
+        375
+      ]
+    },
+    {
+      "title": "Condoo Fee",
+      "data": [
+        120.62,
+        120.62,
+        120.62,
+        120.62,
+        120.62
+      ]
+    },
+    {
+      "title": "Total Expenses",
+      "data": [
+        1130.62,
+        1130.62,
+        1130.62,
+        1130.62,
+        1130.62
+      ],
+      "class": "row-sub-total"
+    },
+    {},
+    {
+      "title": "NOI",
+      "data": [
+        1372.62,
+        1372.62,
+        1372.62,
+        1372.62,
+        1372.62
+      ],
+      "class": "row-total"
+    },
+    {},
+    {
+      "title": "Contribution to Reserve",
+      "data": [
+        "(0)",
+        "(0)",
+        "(0)",
+        "(0)",
+        "(0)"
+      ]
+    },
+    {},
+    {
+      "title": "Cash Surplus",
+      "data": [
+        1372.62,
+        1372.62,
+        1372.62,
+        1372.62,
+        1372.62
+      ],
+      "class": "row-total"
+    }
+  ]
+}

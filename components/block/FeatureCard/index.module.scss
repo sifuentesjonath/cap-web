@@ -1,0 +1,35 @@
+.feature-h {
+  height: 440px;
+
+  @media screen and (min-width: theme('screens.sm')) {
+    height: 540px;
+  }
+
+  @media screen and (min-width: theme('screens.md')) {
+    height: 500px;
+  }
+
+  @media screen and (min-width: theme('screens.lg')) {
+    height: 520px;
+  }
+
+  @media screen and (min-width: theme('screens.2xl')) {
+    height: 560px;
+  }
+}
+
+.feature-w {
+  width: 100%;
+  @media screen and (min-width: theme('screens.sm')) {
+    width: 60%;
+  }
+  @media screen and (min-width: theme('screens.lg')) {
+    width: 70%;
+  }
+  @media screen and (min-width: theme('screens.xl')) {
+    width: 25%;
+  }
+  @media screen and (min-width: theme('screens.2xl')) {
+    width: 30%;
+  }
+}

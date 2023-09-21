@@ -1,0 +1,14 @@
+{
+	"Pricing": {
+		"href": "/pricing"
+	},
+	"About": {
+		"href": "/about"
+	},
+	"Resources": {
+		"href": "https://condoo.zendesk.com/hc/"
+	},
+	"Home":{
+		"href": "/app"
+	}
+}

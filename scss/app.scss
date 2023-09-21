@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import 'tailwindcss/tailwind.css';
+// Outfit font:
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@900&display=swap');
+// Manrope font
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+
+.body-container {
+  min-height: calc(100vh - theme('spacing.48'));
+  @apply mx-auto;
+}
+.app-body-container {
+  min-height: calc(100vh - theme('spacing.20'));
+  overflow-x: hidden;
+  @apply  h-screen;
+  width: 100%;
+  
+}
+.sub-body-container {
+  width: 100%;
+  @media screen and (min-width: theme('screens.xl')) {
+    padding: 0 calc((100vw - theme('screens.xl')) / 2);
+  }
+}
+
+.margintop{
+  margin-top: 20px;
+}
+.flotanteright{
+  float: right;
+  margin-left: 10px;
+}
+.oculto{
+  visibility:hidden !important;
+}
+.transparente{
+  background: #F9F9F9;
+  display: inline;
+  border-radius: 6px;
+  height:60px;
+}
+.link{
+  cursor: pointer;
+  text-decoration-line: underline;
+}
+
+.mytext{
+  padding-left: 1px ;
+}
+
+.fondoraro{
+  background: #F7F8F9 !important;
+}
+.fondopdf{
+  font-size: 12px;
+  padding: 5px;
+  background: #C1C1C1 !important;
+
+}
+.decoracion{
+  text-decoration-line: "underline" !important;
+  font-size: 18px;
+}
+
+.flexAlignment {
+  justify-content:space-around;
+}
+
+.myprogresstext{
+  margin-top: 1%;
+  margin-left: 30%;
+  width: 40%;
+  height: 10px;
+  text-align: center;
+}
+.titulonegro{
+  font-weight: bold;
+  color: black;
+}
+.lineacentro{
+  text-align: center;
+}
+.butoncentro{
+  margin-left: 30.7%;
+}
+.mapa{
+  width: 900px !important;
+  max-width: none;
+  height: 600px !important;
+}
+
+.mapboxgl-map{
+  border-radius: 35px;
+}
+
+
+@media (max-width: 1200px) {
+  .caja_inline {
+    width: 100%;
+    display: inline;
+    float: none;
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+}
+.apexcharts-tooltip {
+  background-color: transparent !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  top: 20px !important;
+}
+
+.screen-h-full {
+  height: calc(100vh - 5rem);
+  @media screen and (max-width: theme('screens.sm')) {
+    height: calc(100vh - 5rem);
+  }
+}
+.screen-h-full-progress {
+  height: calc(100vh - 6rem);
+  @media screen and (max-width: theme('screens.sm')) {
+    height: 100%;
+  }
+}
+
+.filter-section {
+  min-height: calc(100vh - 108px);
+  height: calc(100vh - 108px);
+  min-width: 284px;
+ 
+  .title {
+    @apply font-normal text-2xl self-start;
+  }
+  .datepicker-container {
+    @apply w-full h-6 my-3 flex justify-center items-center space-x-3;
+  }
+  @apply bg-white flex flex-col items-center absolute overflow-y-auto
+  md:flex md:w-80 md:relative md:left-0;
+}
+.sub-section {
+  @apply bg-secondary border-primary border-2 rounded-md p-4 
+}
+
+.over{
+  height: 100%;
+  width: 100%;
+  overflow:hidden;
+  position:absolute;
+}
+
+@media (min-width: 1800px){
+  .CookieConsent {
+    justify-content: center !important;
+    padding: 14px 16px !important;
+    gap: 240px;
+  }
+}

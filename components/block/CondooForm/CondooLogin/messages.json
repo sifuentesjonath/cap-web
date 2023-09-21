@@ -1,0 +1,7 @@
+{
+	"errors": {
+		"auth/wrong-password": "The password you provided is invalid.",
+		"auth/user-not-found": "No existing account - please go to the signup page to create an account.",
+		"auth/too-many-requests": "Access to this account has been temporarily disabled due to many failed login attempts. try again later."
+	}
+}

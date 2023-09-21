@@ -1,0 +1,9 @@
+.sub-title {
+  margin-top: 20px;
+  width: 80%;
+  text-align: center;
+  font-weight: 500;
+  @media screen and (min-width: theme('screens.lg')) {
+    width: 600px;
+  }
+}

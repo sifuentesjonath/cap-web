@@ -1,0 +1,40 @@
+{
+  "percents": ["6","5","4"],
+  "cruise": [
+    {
+      "title": "Rent collection"
+    },
+    {
+      "title": "Tenant management"
+    },
+    {
+      "title": "Bookkeeping"
+    },
+    {
+      "title": "Bill payments"
+    },
+    {
+      "title": "In-House maintentance"
+    },
+    {
+      "title": "Leasing fee extra",
+      "description": "1 Month's rent"
+    }
+  ],
+  "auto": [
+    {
+      "title": "All cruise features"
+    },
+    {
+      "title": "Vacant unit rent guarantee"
+    }
+  ],
+  "tycoon": [
+    {
+      "title": "All cruise features"
+    },
+    {
+      "title": "Volume rate discounts"
+    }
+  ]
+}

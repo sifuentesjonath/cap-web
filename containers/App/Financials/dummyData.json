@@ -1,0 +1,486 @@
+{
+	"469 514 Rue Bishap Expenses": [
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 700,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "54100",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Parking",
+				"SubAccounts": null,
+				"SubType": "Expense",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 700,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "58000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Late Fee Income",
+				"SubAccounts": null,
+				"SubType": "Expense",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 500,
+			"Date": "2022-09-22",
+			"GLAccount": { 
+				"AccountNumber": "51000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Rental",
+				"SubAccounts": null,
+				"SubType": "Expense",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 60,
+			"Date": "2022-10-11",
+			"GLAccount": { 
+				"AccountNumber": "51000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Other",
+				"SubAccounts": null,
+				"SubType": "Expense",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 200,
+			"Date": "2022-10-26",
+			"GLAccount": { 
+				"AccountNumber": "58000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Condo",
+				"SubAccounts": null,
+				"SubType": "Expense",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 50,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Maintenance",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 120,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Other",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 140,
+			"Date": "2022-03-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Taxes",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		}
+	],
+	"468 514 Rue Bishop": [
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 700,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Parking",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Income"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 700,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Late Fee Income",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Income"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 500,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Rental",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Income"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 60,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Other",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Income"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 200,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Condo",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 50,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Maintenance",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 120,
+			"Date": "2022-08-26",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Other",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		},
+		{
+			"AccountingEntity": { 
+				"Id": 468, 
+				"AccountingEntityType": "Rental", 
+				"Href": "https://apisandbox.buildium.com/v1/rentals/468" 
+			},
+			"AccountingEntityType": "Rental",
+			"Href": "https://apisandbox.buildium.com/v1/rentals/468",
+			"Amount": 140,
+			"Date": "2022-03-22",
+			"GLAccount": { 
+				"AccountNumber": "46000",
+				"CashFlowClassification": null,
+				"Description": "Late Fee Income",
+				"ExcludeFromCashBalances": false,
+				"Id": 8,
+				"IsActive": true,
+				"IsBankAccount": false,
+				"IsContraAccount": false,
+				"IsDefaultGLAccount": true,
+				"Name": "46000 - Taxes",
+				"SubAccounts": null,
+				"SubType": "Income",
+				"Type": "Expense"
+			},
+			"IsCashPosting": false,
+			"Memo": "Late fee",
+			"ReferenceNumber": null,
+			"transactionID": 157976
+		}
+	]
+}

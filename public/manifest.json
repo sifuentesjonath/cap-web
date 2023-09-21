@@ -1,0 +1,9 @@
+{
+  "name": "Condoo Inc.",
+  "short_name": "Condoo",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "start_url": "/",
+   "gcm_sender_id": "68896446890"
+}

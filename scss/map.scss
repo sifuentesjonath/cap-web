@@ -1,0 +1,16 @@
+.mapboxgl-popup-content {
+  border: 1px solid #6ac24b;
+  border-radius: 10px !important;
+  padding: 12px 9px !important;
+  .mapboxgl-popup-close-button {
+    right: 6px;
+    &:hover {
+      background-color: inherit;
+    }
+  }
+}
+.mapboxgl-popup-anchor-bottom {
+  .mapboxgl-popup-tip {
+    border-top-color: #6ac24b !important;
+  }
+}

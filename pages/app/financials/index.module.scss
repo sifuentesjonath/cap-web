@@ -1,0 +1,88 @@
+.toggle-item {
+  &[data-state='on'] {
+    @apply bg-primary text-white;
+  }
+}
+$tableCellWidthLgXl: calc((100vw - 376px) / 4);
+$tableCellWidthMdLg: calc((100vw - 376px) / 3);
+$tableCellWidthMobile: calc((100vw - 74px) / 2);
+
+.financial-table :global {
+  height: 720px;
+  overflow-x: auto;
+  
+  .ExpensesSection{
+    width: 100%;
+    border-top: 1px solid ;
+  }
+
+  th {
+    @apply text-black text-right font-normal text-xl h-14 align-top border-b
+
+  }
+  td {
+    @apply font-normal text-lg text-right align-top
+  }
+  .sub-title {
+    @apply text-black font-medium text-xl
+  }
+  .first-col {
+    @apply pl-5
+  }
+  .row-sub-total, .row-total {
+    td {
+      @apply text-xl font-medium
+    }
+    @apply border-t-2 font-medium
+  }
+  .row-total {
+    @apply text-primary border-primary
+  }
+
+  tr{
+    & :first-child {
+      text-align: left !important;
+    }
+    @apply h-8 
+  }
+
+  th {
+    width: $tableCellWidthMobile;
+  }
+  .total-col {
+    width: $tableCellWidthMobile
+  }
+
+  @media screen and (min-width: theme('screens.md')) {
+    .total-col {
+      position: absolute;
+      right: 26px;
+      top: auto;
+      background-color: white;
+      margin-top: -2px;
+      width: $tableCellWidthMdLg
+    }
+
+    th {
+      width: $tableCellWidthMdLg;
+    }
+  }
+  @media screen and (min-width: theme('screens.lg')) {
+    th {
+      width: $tableCellWidthLgXl;
+    }
+    .total-col {
+      width: $tableCellWidthLgXl
+    }
+  }
+  @media screen and (min-width: theme('screens.xl')) {
+    th {
+      width: 186px;
+    }
+    .total-col {
+      right: calc((100vw - theme('screens.xl')) / 2 + 12px);
+      width: 186px
+    }
+  }
+}
+

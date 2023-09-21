@@ -1,0 +1,37 @@
+{
+  "markers": [
+    {
+      "id": 1,
+      "address": "address 1",
+      "unit": 304,
+      "city": "Toronto",
+      "lat": 43.65,
+      "lng": -79.39,
+      "streetNo": 1,
+      "streetName": "132 King Street",
+      "rent": 2700
+    },
+    {
+      "id": 2,
+      "address": "address 2",
+      "unit": 1,
+      "city": "Vancouer",
+      "lat": 43.67,
+      "lng": -79.36,
+      "streetNo": 7,
+      "streetName": "Street 7",
+      "rent": 2000
+    },
+    {
+      "id": 3,
+      "address": "address 1",
+      "unit": 2105,
+      "city": "Toronto",
+      "lat": 43.65,
+      "lng": -79.39,
+      "streetNo": 1,
+      "streetName": "132 King Street",
+      "rent": 1900
+    }
+  ]
+}

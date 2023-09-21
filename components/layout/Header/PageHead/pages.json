@@ -1,0 +1,22 @@
+{
+	"/": {
+		"title": "Condoo: Cruise control for condo landlords",
+		"description": "Property management made simple, for all condo landlords. Condoo leverages modern technology to provide institutional quality management at better prices"
+	},
+	"/login": {
+		"title": "Login to Condoo",
+		"description": "Login to Condoo to access all of your condo rental information, all at your fingertips."
+	},
+	"/signup": {
+		"title": "Get Started with Condoo",
+		"description": "Get started with Condoo to access best-in-class condo property management services."
+	},
+	"/pricing": {
+		"title": "Condoo | Pricing",
+		"description": "Access Cruise Control by Condoo starting at 9% of gross rent per month."
+	},
+	"/about": {
+		"title": "Condoo | About Us",
+		"description": "Condoo was founded on the insight that residential condo landlords had few options to get the scale necessary to provide high-quality management services at reasonable prices. Needing to rely on self-management, which can be costly without scale, leads to lower rental rates, and consistent interruptions in your daily life."
+	}
+}

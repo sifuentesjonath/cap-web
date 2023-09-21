@@ -1,0 +1,23 @@
+{
+  "bulletList": [
+    {
+      "id": 1,
+      "title": "Add your details",
+      "descriptionMd": "Tell us about yourself. If you hold properties through a company, we’ll need information on that.",
+      "descriptionSm": "Tell us about yourself. If you hold properties through a company, we’ll need information on that."
+    },
+    {
+      "id": 2,
+      "title": "Tell us about your properties",
+      "descriptionMd": "Let us know some basic information about your properties, like the address, unit size, and rent.",
+      "descriptionSm": "Let us know some basic information about your properties."
+    },
+    {
+      "id": 3,
+      "title": "Sign the management agreement",
+      "descriptionMd": "Read, review, and sign our management agreement. Once completed, a copy is available within your Condoo account.",
+      "descriptionSm": "Our management agreement will be sent to all property title holders."
+    }
+  ]
+
+}

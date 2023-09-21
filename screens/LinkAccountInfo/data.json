@@ -1,0 +1,45 @@
+{
+  "basic": [
+    {
+      "title": "Target rent calculator"
+    },
+    {
+      "title": "Current property value"
+    },
+    {
+      "title": "Property investment tracking"
+    },
+    {
+      "title": "On-demand maintenace personnel at discounted rates"
+    }
+  ],
+  "super": [
+    {
+      "title": "Rent collection"
+    },
+    {
+      "title": "Tenant management"
+    },
+    {
+      "title": "Bookkeeping"
+    },
+    {
+      "title": "Bill payment"
+    },
+    {
+      "title": "In-house maintenance"
+    },
+    {
+      "title": "Leasing Fee Extra \n(1 month's rent)",
+      "type": "plus"
+    }
+  ],
+  "auto": [
+    {
+      "title": "All cruise features"
+    },
+    {
+      "title": "Vacant unit rent guarantee"
+    }
+  ]
+}

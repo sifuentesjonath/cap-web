@@ -1,0 +1,6 @@
+User-agent: *
+
+Disallow: /login
+Disallow: /signup
+Disallow: /app
+Sitemap: https://www.condoo.io/sitemap.xml

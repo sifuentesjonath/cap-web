@@ -1,0 +1,16 @@
+{
+    "titles": [
+        "Direct bank integrations",
+        "Continous Backups",   
+        "CDIC Insurance",
+        "Two-factor Authentication"
+    ],
+    
+    "info": [
+        "Owners directly link their bank accounts that match their ID to receive monthly distributions, limiting the chance of fraud.",
+        "Condoo user data is encrypted and redundantly hosted on a number of global distributed servers.",
+        "All owner funds in our custody are CDIC insured. Condoo is structured to ensure all custodian funds have bankruptcy and deposit protection.",
+        "Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit sit amet non magna."
+    ]
+
+}

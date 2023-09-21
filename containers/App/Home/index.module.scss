@@ -1,0 +1,27 @@
+.toggle-item {
+  margin: 0px 8px;
+  border-bottom: 3px solid #EDEDED;
+  border-radius: 6%;
+  text-align: left;
+  padding-right: 30px;
+  padding-bottom: 8px;
+
+}
+.toggle-item-active {
+  font-weight: bold;
+  border-bottom: 3px solid #00C092;
+}
+
+.mobile-toggle-item {
+  margin: 0px 15px;
+  width: 35px;
+  font-size: x-small;
+  text-align: center;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: #EDEDED;
+}
+.mobile-toggle-item-active {
+  font-weight: bold;
+  background-color: #00C092;
+}
